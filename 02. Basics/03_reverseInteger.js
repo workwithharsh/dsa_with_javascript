@@ -40,7 +40,7 @@ console.log(reverseInteger(120)); // Expected Output: 21
 
 /* 
 --- Complexity Analysis ---
-    Time Complexity: O(log10 n)
+    Time Complexity: O(n)
     Space Complexity: O(1)
 
     where 'n' is the length of the input

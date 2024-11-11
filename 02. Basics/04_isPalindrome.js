@@ -36,7 +36,7 @@ console.log(isPalindrome(606006)); // Expected Output: false
 
 /* 
 --- Complexity Analysis ---
-    Time Complexity: O(log10 n)
+    Time Complexity: O(n)
     Space Complexity: O(1)
 
     where 'n' is the length of the input

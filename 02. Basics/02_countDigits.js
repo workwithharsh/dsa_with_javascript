@@ -38,7 +38,7 @@ console.log(countDigits(9050)); // Expected Output: 4
 
 /* 
 --- Complexity Analysis ---
-    Time Complexity: O(log10 n)
+    Time Complexity: O(n)
     Space Complexity: O(1)
 
     where 'n' is the length of the input
