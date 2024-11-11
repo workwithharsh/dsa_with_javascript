@@ -4,7 +4,7 @@ This repository serves as a comprehensive resource for _Data Structures and Algo
 
 ## Topics
 
-1. **Time Complexity**
+1. **Time & Space Complexity**
 2. **Basics**
 
 ## Contributing
