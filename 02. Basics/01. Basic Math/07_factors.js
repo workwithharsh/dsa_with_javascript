@@ -33,5 +33,5 @@ console.log(factors(36)); // Expected Output: [1, 2, 3, 4, 6, 9, 12, 18, 36]
     Time Complexity: O(n)
     Space Complexity: O(n)
 
-    where 'n' is the length of the input
+    where 'n' is the value of the input
 */

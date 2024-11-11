@@ -40,5 +40,5 @@ console.log(sumUptoNthNumbers(10)); // Expected Output: 55 (10 + 9 + ... + 1)
     Time Complexity: O(n) 
     Space Complexity: O(1)
     
-    where 'n' is the length of the input
+    where 'n' is the value of the input
 */

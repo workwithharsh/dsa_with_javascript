@@ -37,5 +37,5 @@ console.log(isPrime(13)); // Expected Output: true
     Time Complexity: O(n)
     Space Complexity: O(1)
 
-    where 'n' is the length of the input
+    where 'n' is the value of the input
 */

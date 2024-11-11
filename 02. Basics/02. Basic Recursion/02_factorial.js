@@ -9,7 +9,7 @@
 // Solution:
 function factorial(n) {
   // Step 1:  If the input is 1, return 1. This stops the recursion.
-  if (n < 2) {
+  if (n === 1) {
     return 1;
   }
 
@@ -27,5 +27,5 @@ console.log(factorial(1)); // Expected Output: 1
     Time Complexity: O(n) 
     Space Complexity: O(1)
     
-    where 'n' is the length of the input
+    where 'n' is the value of the input
 */
