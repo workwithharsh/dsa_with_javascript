@@ -6,7 +6,6 @@
     2. Iterate from 2 to n-1
     3. Check if the current number is divisible by any number between 2 and n-1, return false
     4. Return true, if the input is a prime number
-
 */
 
 // Solution:

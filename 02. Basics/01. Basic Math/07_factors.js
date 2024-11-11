@@ -5,7 +5,6 @@
     1. Initiate a result array with [1]
     2. Check factors of input from 2 to n, push in array if true
     3. Return the result array
-
 */
 
 // Solution:

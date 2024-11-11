@@ -7,7 +7,6 @@
     3. Iterate from 2 to min
     4. Check if both N1 and N2 are divisible by i
     5. Return the result
-
 */
 
 // Solution:
