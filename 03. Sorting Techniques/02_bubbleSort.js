@@ -1,6 +1,7 @@
 /* 
     Problem: Create a function that sort given array using Bubble Sort.
 
+    Algorithm:
     1. Store the length of the array in a variable n
     2. Initiate swapped with true
     3. Outer loop: iterate through the array until swapped is true

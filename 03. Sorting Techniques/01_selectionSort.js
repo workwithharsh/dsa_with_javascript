@@ -1,6 +1,7 @@
 /* 
     Problem: Create a function that sort given array using Selection Sort.
 
+    Algorithm:
     1. Store the length of the array in a variable n.
     2. Outer loop: iterate from i = 0 to n - 1.
     3. Store the current index i in a variable minIndex.

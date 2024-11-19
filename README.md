@@ -6,8 +6,9 @@ This repository serves as a comprehensive resource for _Data Structures and Algo
 
 1. **Time & Space Complexity**
 2. **Basics**
-
-## Contributing
+3. **Sorting Algorithms**
+4. **Searching Algorithms**
+5. **Arrays**
 
 This is a personal collection of notes and solutions. Contributions are currently not open, but feel free to open an issue if you have suggestions or improvements.
 
